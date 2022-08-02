@@ -1,22 +1,80 @@
-.u-section-1 {background-image: url("images/pexels-photo-1036936.jpeg"); background-position: 50% 50%}
-.u-section-1 .u-sheet-1 {min-height: 717px}
-.u-section-1 .u-text-1 {text-transform: uppercase; font-weight: 300; letter-spacing: 2px; font-size: 2.25rem; width: 295px; margin: 539px auto 0}
-.u-section-1 .u-btn-1 {background-image: none; border-style: none none solid; text-transform: uppercase; letter-spacing: 2px; margin: 30px auto 60px; padding: 0} 
+.u-section-1 {
+  background-image: url("images/pexels-photo-1036936.jpeg");
+  background-position: 50% 50%;
+}
+.u-section-1 .u-sheet-1 {
+  min-height: 717px;
+}
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 2px;
+  font-size: 2.25rem;
+  width: 295px;
+  margin: 539px auto 0;
+}
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none none solid;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 30px auto 60px;
+  padding: 0;
+}
 
-@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 591px}
-.u-section-1 .u-text-1 {margin-top: 60px; font-size: 1.875rem}
-.u-section-1 .u-btn-1 {font-size: 1rem} }
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 591px;
+  }
+  .u-section-1 .u-text-1 {
+    margin-top: 60px;
+    font-size: 1.875rem;
+  }
+  .u-section-1 .u-btn-1 {
+    font-size: 1rem;
+  }
+}
 
-@media (max-width: 991px){ .u-section-1 {background-position: 48.78% 100%; background-size: 110%}
-.u-section-1 .u-sheet-1 {min-height: 520px}
-.u-section-1 .u-text-1 {width: auto; margin-top: 407px}
-.u-section-1 .u-btn-1 {margin-bottom: 20px} }
+@media (max-width: 991px) {
+  .u-section-1 {
+    background-position: 48.78% 100%;
+    background-size: 110%;
+  }
+  .u-section-1 .u-sheet-1 {
+    min-height: 520px;
+  }
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 407px;
+  }
+  .u-section-1 .u-btn-1 {
+    margin-bottom: 20px;
+  }
+}
 
-@media (max-width: 767px){ .u-section-1 {background-size: auto 110%}
-.u-section-1 .u-sheet-1 {min-height: 390px}
-.u-section-1 .u-text-1 {font-size: 1.5}
-.u-section-1 .u-btn-1 {font-size: 0.875rem} }
+@media (max-width: 767px) {
+  .u-section-1 {
+    background-size: auto 110%;
+  }
+  .u-section-1 .u-sheet-1 {
+    min-height: 390px;
+  }
+  .u-section-1 .u-text-1 {
+    font-size: 1.5;
+  }
+  .u-section-1 .u-btn-1 {
+    font-size: 0.875rem;
+  }
+}
 
-@media (max-width: 575px){ .u-section-1 {background-position: 71.79% 100%}
-.u-section-1 .u-sheet-1 {min-height: 246px}
-.u-section-1 .u-text-1 {font-size: 1.5rem} }
+@media (max-width: 575px) {
+  .u-section-1 {
+    background-position: 71.79% 100%;
+  }
+  .u-section-1 .u-sheet-1 {
+    min-height: 246px;
+  }
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+}
